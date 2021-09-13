@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hold12Rl
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Updating Beatsaber mods
-- 💞️ I’m looking to collaborate on Icue Beatsabermod
+- 👀 I’m interested in Lua
+- 🌱 I’m currently Doing Roblox exploits
+- 💞️ I’m looking to collaborate With Roblox-Scripts
 - 📫 How to reach me (Unkown)
 
 <!---
