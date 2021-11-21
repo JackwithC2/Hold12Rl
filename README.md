@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hold12Rl
-- 👀 I’m interested in Lua
-- 🌱 I’m currently Doing Roblox exploits
-- 💞️ I’m looking to collaborate With Roblox-Scripts
+- 👀 I’m interested in css And html
+- 🌱 I’m currently Doing Jacksmcserver
+- 💞️ I’m looking to collaborate With 
 - 📫 How to reach me (Unkown)
 
 <!---
